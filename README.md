@@ -4,6 +4,8 @@ Clock project sessions and round their combined duration once per project for bi
 
 Round the combined time for each project once. Several short interruptions on one job can fit within one billing block instead of each becoming a separate minimum charge.
 
+A green play mark identifies the project currently on the clock. Two gray pause bars mean that project has recorded time and is stopped. An untouched project has no mark.
+
 ## Switch projects while working
 
 1. Set the project names, hourly rate and billing block in device settings. Turn to the project you are starting and press **Start**.
