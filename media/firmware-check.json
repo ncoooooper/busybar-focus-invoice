@@ -12,5 +12,26 @@
   "frames": 54,
   "distinct_frames": 21,
   "exit": "App io.ncoooooper.focusinvoice exited: finished; heap peak 84.0 of 128 KiB",
-  "sha256": "6d8f82fc7deb637d164b09b4de37c039d3849e5d79d278b6f50f6325853cf796"
+  "sha256": "611d8bdef3d7915e66a3ae0bf09d3d1f84226e48fd3622363d920bc1f7415568",
+  "display_test": {
+    "firmware": "1.3.1",
+    "input": "On-device controls",
+    "keys": [
+      [
+        "start",
+        "up"
+      ],
+      [
+        "start",
+        "ok",
+        "start"
+      ]
+    ],
+    "frames": 144,
+    "distinct_by_flow": [
+      12,
+      14
+    ],
+    "exit": "App io.btype.focusinvoice exited: finished; heap peak 89.1 of 128 KiB"
+  }
 }
