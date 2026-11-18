@@ -1,0 +1,22 @@
+{
+  "format_version": 1,
+  "version": 1,
+  "fields": {
+    "projects": {
+      "type": "string",
+      "label": "Project names, comma separated",
+      "default": "Design,Research,Studio",
+      "max_length": 120
+    },
+    "rate": {
+      "type": "integer",
+      "label": "Rate per hour",
+      "default": 60
+    },
+    "block": {
+      "type": "integer",
+      "label": "Rounding interval (minutes)",
+      "default": 15
+    }
+  }
+}

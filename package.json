@@ -2,7 +2,7 @@
   "name": "busybar-focus-invoice",
   "private": true,
   "version": "0.1.0",
-  "description": "Focus Invoice",
+  "description": "Clock project sessions and round their combined duration once per project for billing.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {

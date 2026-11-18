@@ -4,6 +4,6 @@
   "name": "Focus Invoice",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Focus Invoice",
+  "description": "Clock project sessions and round their combined duration once per project for billing.",
   "author": "ncoooooper"
 }
