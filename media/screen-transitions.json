@@ -1,6 +1,17 @@
 {
   "app": "busybar-focus-invoice",
-  "sha256": "39c9198ab7a55d64e8cced20a4177268e35865e8742d60d1a49751eb74510a56",
+  "sha256": "10d2fa56b517d605dfec54a2fbe3bd9c1858b3563515b7f8ddef999111fe0e51",
+  "rapid_input_test": {
+    "app": "io.ncoooooper.focusinvoice",
+    "sha256": "10d2fa56b517d605dfec54a2fbe3bd9c1858b3563515b7f8ddef999111fe0e51",
+    "firmware": {
+      "name": "1.3.1",
+      "commit": "8edd2da4"
+    },
+    "heap_peak_kib": 92.4,
+    "budget_kib": 128.0,
+    "exit": "finished"
+  },
   "firmware": "1.3.1",
   "cell": 16,
   "lit": 14,
