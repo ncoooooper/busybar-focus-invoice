@@ -6,6 +6,20 @@ Round the combined time for each project once. Several short interruptions on on
 
 A green play mark identifies the project currently on the clock. Two gray pause bars mean that project has recorded time and is stopped. An untouched project has no mark.
 
+## Screen transitions
+
+Switch between projects and browse the rounded invoice amount.
+
+![Focus Invoice front display. Switch between projects and browse the rounded invoice amount.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Focus Invoice rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Switch projects while working
 
 1. Set the project names, hourly rate and billing block in device settings. Turn to the project you are starting and press **Start**.
@@ -36,6 +50,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)

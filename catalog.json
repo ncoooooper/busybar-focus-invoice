@@ -2,5 +2,5 @@
   "category": "productivity",
   "short_description": "Clock project sessions and round their combined duration once per project for billing.",
   "description": "Clock project sessions and round their combined duration once per project for billing. Wheel selects a project. Start starts or stops its clock. Starting a different project settles the previous session before the new one begins. Click switches between elapsed time and invoice totals. Set your hourly rate and billing interval in settings. Past time remains on the device.",
-  "changelog": "First public version."
+  "changelog": "New screen transitions and high-contrast LED previews."
 }

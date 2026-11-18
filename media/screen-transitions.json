@@ -1,0 +1,49 @@
+{
+  "app": "busybar-focus-invoice",
+  "sha256": "39c9198ab7a55d64e8cced20a4177268e35865e8742d60d1a49751eb74510a56",
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "switch-from-design-to-research",
+        "inspect-research-amount"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "start",
+          "up"
+        ],
+        [
+          "start",
+          "ok",
+          "start"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        14,
+        19,
+        49
+      ],
+      "rear_frames": 42,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}
